@@ -7,6 +7,8 @@
 - 🔭 I’m currently working on [text-fabric](https://github.com/annotation/text-fabric)
 - 👯 I’m looking to collaborate with text researchers to enrich text corpora with 
   smart data and make that usable to others
+- ⏳ [annotation](https://annotation-paradigm.readthedocs.io/en/latest/index.html)
+  is a long standing interest of mine
 - 🤔 I’m looking for help with writing good documentation on text-fabric, preferably 
   a git book with lots of jupyter notebooks
 - 📫 how to reach me: create of comment on an
