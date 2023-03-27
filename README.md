@@ -9,9 +9,9 @@
   smart data and make that usable to others
 - ⏳ [annotation](https://annotation-paradigm.readthedocs.io/en/latest/index.html)
   is a long standing interest of mine
-- 🤔 I’m looking for help with writing good documentation on text-fabric, preferably 
-  a git book with lots of jupyter notebooks
+- 🤔 I’m looking for help with communicating the text-fabric ethos in a handbook
+  ([mkdocs](https://www.mkdocs.org) plus jupyter notebooks)
 - 📫 get in touch? make an
   [issue](https://github.com/annotation/text-fabric/issues), we can continue in Slack
 - 😄 pronouns: as long as you spell my proper name properly I don't care
-- ⚡ fun fact: often I work fast, faster than 100 km/h, in the train.
+- ⚡ fun fact: often I work fast, faster than 100 km/h, in the train
