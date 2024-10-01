@@ -1,4 +1,6 @@
-Also active on the gitlab of [@knaw-huc](https://github.com/knaw-huc):
+Also active on the on-premise
+[gitlab](https://gitlab.huc.knaw.nl/explore)
+of [@knaw-huc](https://github.com/knaw-huc):
 
 * [suriano](https://gitlab.huc.knaw.nl/suriano/letters)
 * [translatin](https://gitlab.huc.knaw.nl/translatin/corpus)
